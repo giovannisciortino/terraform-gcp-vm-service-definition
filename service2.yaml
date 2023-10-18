@@ -1,0 +1,5 @@
+{
+  "gcp_project": "openenv-556pz",
+  "gcp_vpc_network": "terraform-network-2"
+  "gcp_compute_instance_name": "terraform-instance-2"
+}
