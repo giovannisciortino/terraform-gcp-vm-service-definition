@@ -1,5 +1,4 @@
 {
   "gcp_project": "openenv-556pz",
-  "gcp_compute_instance_count": 1,
-  "force_destroy": "True"
+  "gcp_compute_instance_count": 1
 }
