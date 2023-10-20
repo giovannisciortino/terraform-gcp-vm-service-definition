@@ -1,6 +1,6 @@
 {
   "gcp_project": "openenv-556pz",
   "gcp_compute_instance_count": 2,
-  "gcp_vpc_network": "vm-service2",
+  "gcp_compute_instance_name": "vm-service2",
   "gcp_vpc_network": "network-service2"
 }
