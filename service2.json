@@ -1,5 +1,5 @@
 {
-  "gcp_project": "openenv-556pz",
+  "gcp_project": "openenv-94l5q",
   "gcp_compute_instance_count": 1,
   "gcp_compute_instance_name": "vm-service2",
   "gcp_vpc_network": "network-service2"
